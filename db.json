@@ -1,0 +1,58 @@
+{
+    "product":[
+        {
+            "name":"Men Round Neck Black T-Shirt",
+            "category":"men",
+            "accessory":"t-shirt",
+            "prize":"345",
+            "noOfDaysToDelivery":2,
+            "brand":"nike",
+            "size":"S",
+            "color":"black",
+            "image":"../src/assets/images/img01.png",
+            "comments":[
+            {            
+                "rating": 5,
+                "comment": "best quality product !!",
+                "author": "Md aman Sahil",
+                "date": "2020-04-20T17:57:28.556094Z"
+            },
+            {            
+                "rating": 4,
+                "comment": "very nice t-shirt I like it",
+                "author": "Rohith",
+                "date": "2020-04-20T17:57:28.556094Z"
+            }
+            ]
+
+        },
+        {
+            "name":"Men Solid Casual Spread Shirt",
+            "category":"men",
+            "accessory":"shirt",
+            "prize":"299",
+            "noOfDaysToDelivery":2,
+            "brand":"GEUMACCESSORIES",
+            "size":"L",
+            "color":"yellow",
+            "image":"../src/assets/images/img02.png",
+            "comments":[
+            {            
+                "rating": 5,
+                "comment": "Superb go for it...",
+                "author": "Inder singh Gosain",
+                "date": "2020-04-20T17:57:28.556094Z"
+            },
+            {            
+                "rating": 4,
+                "comment": "Nice product",
+                "author": "Rock star Mohan tej",
+                "date": "2020-04-20T17:57:28.556094Z"
+            }
+            ]
+
+        }
+    ]
+
+    
+}
